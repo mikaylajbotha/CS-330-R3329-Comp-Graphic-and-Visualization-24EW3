@@ -1,1 +1,1 @@
-# CS-330-R3329-Comp-Graphic-and-Visualization-24EW3
+# CS-330-R3329-Comp-Graphic-and-Visualization
